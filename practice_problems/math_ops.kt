@@ -12,11 +12,9 @@ fun main() {
 
 // Define add() function below this line
 fun add(fn: Int, sn: Int): Int {
-    val result = fn + sn
-    return result
+    return fn + sn
 }
 // Define sub() function below this line
 fun sub(fn: Int, sn: Int): Int {
-    val result = fn - sn
-    return result
+    return fn - sn
 }
